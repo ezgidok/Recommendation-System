@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# MacOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Çıktılar
+embeddings/
+
+# Streamlit cache
+.streamlit/
+
+# Log dosyaları
+*.log
+
