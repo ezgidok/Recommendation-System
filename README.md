@@ -13,10 +13,4 @@ Arka tarafta **FastAPI**, ön tarafta ise **Streamlit** kullanılarak basit bir 
 
 ---
 
-## Kurulum
 
-1. Repoyu klonla:
-
-```bash
-git clone https://github.com/<kullanici-adin>/<repo-adi>.git
-cd <repo-adi>
