@@ -7,10 +7,8 @@ Arka tarafta **FastAPI**, ön tarafta ise **Streamlit** kullanılarak basit bir 
 
 - `vektor.py` – Kullanıcı ve film embedding'lerini eğiten PyTorch script'i
 - `app.py` – Embedding'leri yükleyip tavsiye üreten FastAPI servisi
-- `stream.py` (veya `st.py`) – Kullanıcıya film önerilerini gösteren Streamlit arayüzü
-- `embeddings/` – Eğitim sonrası oluşan `.npy` embedding dosyaları (git’te ignore edilebilir)
+- `stream.py` – Kullanıcıya film önerilerini gösteren Streamlit arayüzü
+- `embeddings/` – Eğitim sonrası oluşan `.npy` embedding dosyaları 
 - `requirements.txt` – Gerekli Python paketleri
 
 ---
-
-
